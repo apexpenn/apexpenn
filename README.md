@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apexpenn
 
-- 📫 How to reach me zhangpengme@outlook.com
+- 📫 How to reach me infosec.penn@gmail.com
 
 <!---
 apexpeng/apexpeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
