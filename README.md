@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @apexpenn a seasoned cybersecurity professional holding CISSP and PMP certifications.
+- 👋 Hi, I’m @apexpenn. A seasoned cybersecurity professional holding CISSP and PMP certifications.
 
-- 📫 How to reach me: infosec.penn at gmail.com
+- 📫 How to reach me: [infosec.penn at gmail.com](mailto:infosec.penn@gmail.com)
 
 - My book [Connected Vehicle Cybersecurity](https://www.amazon.com/dp/B0DV9M6GXM) published in Amazon, thank you for support
 
